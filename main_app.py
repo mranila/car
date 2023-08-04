@@ -14,7 +14,7 @@ import predict
 st.set_page_config(page_title = 'Car Price Prediction',
                     page_icon = ':car:',
                     layout = 'wide',
-                    initial_sidebar_state = 'expanded'
+                    initial_sidebar_state = 'collapse'
                     )
 
 # Dictionary containing positive integers in the form of words as keys and corresponding former as values.
