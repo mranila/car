@@ -13,7 +13,7 @@ import predict
 # Configure your home page by setting its title and icon that will be displayed in a browser tab.
 st.set_page_config(page_title = 'Car Price Prediction',
                     page_icon = ':car:',
-                    layout = 'centered',
+                    layout = 'wide',
                     initial_sidebar_state = 'auto'
                     )
 
